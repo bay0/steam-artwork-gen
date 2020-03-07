@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/steam-artwork-gen/static/css/main.e954d683.chunk.css",
+    "main.js": "/steam-artwork-gen/static/js/main.3fe1ce69.chunk.js",
+    "main.js.map": "/steam-artwork-gen/static/js/main.3fe1ce69.chunk.js.map",
+    "runtime-main.js": "/steam-artwork-gen/static/js/runtime-main.33cf8050.js",
+    "runtime-main.js.map": "/steam-artwork-gen/static/js/runtime-main.33cf8050.js.map",
+    "static/js/2.5e663ef9.chunk.js": "/steam-artwork-gen/static/js/2.5e663ef9.chunk.js",
+    "static/js/2.5e663ef9.chunk.js.map": "/steam-artwork-gen/static/js/2.5e663ef9.chunk.js.map",
+    "index.html": "/steam-artwork-gen/index.html",
+    "precache-manifest.c365b84ec339a66134904a6ae8b26dcf.js": "/steam-artwork-gen/precache-manifest.c365b84ec339a66134904a6ae8b26dcf.js",
+    "service-worker.js": "/steam-artwork-gen/service-worker.js",
+    "static/css/main.e954d683.chunk.css.map": "/steam-artwork-gen/static/css/main.e954d683.chunk.css.map",
+    "static/js/2.5e663ef9.chunk.js.LICENSE.txt": "/steam-artwork-gen/static/js/2.5e663ef9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/steam-artwork-gen/static/media/SFProText-SemiboldItalic.9aa5d618.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33cf8050.js",
+    "static/js/2.5e663ef9.chunk.js",
+    "static/css/main.e954d683.chunk.css",
+    "static/js/main.3fe1ce69.chunk.js"
+  ]
+}
